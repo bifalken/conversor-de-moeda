@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  min-height: 400px;
+  background-color: #7d8ee3;
+  margin-top: 50px;
+}
+
+.container {
+  text-align: center;
+}
+
+.page-title {
+  color: #fff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #000;
+  margin-top: 5px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+h2 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: normal;
+  margin-top: 50px;
+}
+
+footer {
+  margin-top: 80px;
+}
